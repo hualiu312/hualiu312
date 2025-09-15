@@ -6,7 +6,7 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://img.deep123.top/PicGO/it.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
@@ -14,11 +14,7 @@
   <a href="https://blog.deep123.top/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://x.com/liutao0708"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://youtu.be/a9F7cEC3PB8"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
 # 🙋 Hello
 
